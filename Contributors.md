@@ -8,6 +8,7 @@
 - [Ashutosh](https://github.com/CET23)
 - [Gokul K Peethu](https://github.com/daztron-gkp)
 - [Ayush](https://github.com/ayush7)
+- [swetha sri] (https://github.com/SwethaSri07)
 - [Jayita Pramanik](https://github.com/Jayita10)
 - [Benyasca](https://github.com/lbgm2011)
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
